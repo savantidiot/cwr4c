@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title>CWR4C Demo</title>
+  <link href="./LineUpJS.css" rel="stylesheet">
+  <link href="./demo.css" rel="stylesheet">
+</head>
+<body>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="./LineUpJS.js"></script>
+<script>
+
+  window.onload = function () {
+    d3.csv('./CWR4C_LineUP_demo.csv', function (data) {
+
+      let desc = [
+        {column: 'drug_name', type: 'string', label: 'Drug Name(s) From Study'},
+
+        {column: 'disease', type: 'string', label: 'Disease(s)'},
+
+        {column: 'overall_score', type: 'number', domain: [-7, 12], 'color': 'blue', label: 'Overall Score'},
+
+        // currently must change ranges by hand. Want to dynamically change based on min/max
+        {column: 'clinical_trial', type: 'number', domain: [0, 4], 'color': 'blue', label: 'Clinical Trial'},
+        {column: 'clinical_observational', type: 'number', domain: [0, 4], 'color': 'pink', label: 'Observational Study'},
+        {column: 'clinical_case_report', type: 'number', domain: [0, 4], 'color': 'orange', label: 'Case Report'},
+        {column: 'in_vivo', type: 'number', domain: [0, 4], 'color': 'red', label: 'In Vivo'},
+        {column: 'in_vitro', type: 'number', domain: [0, 4], 'color': 'green', label: 'In Vitro'},
+        {column: 'other', type: 'number', domain: [0, 4], 'color': '#b0b0b0', label: 'Other Study Type'},
+
+        {column: 'effective', type: 'number', domain: [0, 5], 'color': 'green', label: 'Effective'},
+        {column: 'detrimental', type: 'number', domain: [0, 5], 'color': 'red', label: 'Detrimental'},
+        {column: 'no_effect', type: 'number', domain: [0, 5], 'color': '#4a4a4a', label: 'No Effect'},
+        {column: 'inconclusive', type: 'number', domain: [0, 5], 'color': '#b0b0b0', label: 'Inconclusive'},
+
+        {column: 'number_studies', type: 'string', label: '# of Studies'},
+      ];
+
+      const p = new LineUpJS.LocalDataProvider(data, desc);
+      p.deriveDefault();
+      p.getLastRanking().insert(p.create(LineUpJS.createSelectionDesc()), 1);
+
+      const lineup = new LineUpJS.Taggle(document.body, p);
+      lineup.update();
+    });
+  };
+
+</script>
+
+</body>
+</html>
