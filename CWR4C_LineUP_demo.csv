@@ -1,0 +1,278 @@
+,drug_name,in_vitro,in_vivo,other,clinical_trial,clinical_case_report,clinical_observational,effective,inconclusive,no_effect,detrimental,number_studies,overall_score,disease
+113,altretamine,0,0,0,2,1,0,3,0,0,0,3,12.0,ovarian cancer
+194,cidofovir,0,3,0,1,0,0,4,0,0,0,4,11.0,"human papillomavirus associated tumors, Vulval intraepithelial neoplasia, mesothelioma, cervical carcinoma"
+5,mebendazole,1,4,0,0,0,0,5,0,0,0,5,9.0,"Medulloblastoma, Meningioma, Glioblastoma multiforme"
+133,argatroban,0,4,0,0,0,0,4,0,0,0,4,8.0,"melanoma/ orthotopic pancreatic tumors, breast cancer, melanoma/ bone metastasis , glioblastoma"
+212,deferasirox,1,3,1,0,0,0,4,1,0,0,5,7.0,"hepatocellular carcinoma, cancer not specific, multiple myelom, gastric cancer"
+104,adefovir,0,0,0,1,0,0,1,0,0,0,1,5.0,hepatocellular carcinoma
+50,cimetidine,0,0,1,1,0,0,1,1,0,0,2,5.0,"lung adenocarcinoma , colorectal cancer"
+198,clindamycin+gentamicin,0,0,0,1,0,0,1,0,0,0,1,5.0,colorectal tumors
+140,axicabtagene ciloleucel,0,0,1,1,0,0,1,1,0,0,2,5.0," large B-cell lymphoma, acute lymphoblastic leukemia/ B-cell lymphoma"
+276,doxorubicin+capecitabine+cyclophosphamide+docetaxel,0,0,0,1,0,0,1,0,0,0,1,5.0,Breast Cancer
+114,altretamine+paclitaxel,0,0,0,1,0,0,1,0,0,0,1,5.0,ovarian cancer
+216,fluoximesterone+deflazacort,0,0,0,1,0,0,1,0,0,0,1,5.0,breast cancer
+11,alitretinoin,0,0,0,1,0,0,1,0,0,0,1,5.0,Kaposi's sarcoma
+106,afilbercept+5-fluorouracil+ leucovorin + irinotecan,0,0,0,1,0,0,1,0,0,0,1,5.0,pre-treated advanced solid malignancies
+103,adefovir dipi-voxil,0,0,0,1,0,0,1,0,0,0,1,5.0,Acute myeloid leukemia
+164,cabergoline,0,0,0,1,0,0,1,0,0,0,1,5.0,metastatic breast cancer
+98,activated charcoal+epirubicin,0,0,0,1,0,0,1,0,0,0,1,5.0, breast cancer 
+248,estramustine,0,1,0,1,0,0,1,1,0,0,2,4.333333333333333,prostate cancer
+226,dimethyl fumarate,0,2,0,0,0,0,2,0,0,0,2,4.0,"cutaneous T-cell lymphoma, colon cancer"
+217,dextran,0,2,0,0,0,0,2,0,0,0,2,4.0,"acute lymphocytic leukemia/ Lymphoma/ sarcoma, cancer not specific"
+42,sorafenib,0,2,0,0,0,0,2,0,0,0,2,4.0,"hepatocellular carcinoma, cancer (not specific)"
+222,diflunisal,3,1,0,0,0,0,3,1,0,0,4,3.6666666666666665,"cancer not specific, leukemia, lung cancer/endometrial adenocarcinoma, hepatocellular carcinoma"
+156,boron neutron capture therapy,0,3,0,0,0,0,2,1,0,0,3,3.3333333333333335,"prostate cancer, glioma, Ehrlich ascites carcinoma"
+127,anti-thymocyte globulin,0,0,0,2,0,0,1,1,0,0,2,3.333333333333333,"T-cell large granular lymphocytic leukemia/ hypogammaglobulinemia/ low-grade lymphomas, T-cell tumor"
+147,bedaquiline,1,1,0,0,0,0,2,0,0,0,2,3.0,"lung cancer, breast cancer cells"
+51,amiloride,0,4,0,0,0,0,2,2,0,0,4,2.666666666666667,"hepatocarcinoma, multiple myeloma, angiomyolipomas, Peritoneal metastasis in gastric cancer"
+201,clozapine,0,1,0,0,0,0,1,0,0,0,1,2.0,melanoma
+67,corticotropin+ bevacizumab,0,1,0,0,0,0,1,0,0,0,1,2.0,colon carcinoma/ breast carcinoma
+188,cetrorelix,0,1,0,0,0,0,1,0,0,0,1,2.0,triple-negative breast cancers
+199,clioquinol,0,1,0,0,0,0,1,0,0,0,1,2.0,Prostate cancer
+69,cyclosporine+ crizotinib,0,1,0,0,0,0,1,0,0,0,1,2.0,lung cancer
+109,trichosanthin+albendazole,0,1,0,0,0,0,1,0,0,0,1,2.0,cancer not specific
+197,cinacalcet,0,1,0,0,0,0,1,0,0,0,1,2.0,neuroblastoma
+29,vilazodone,0,1,0,0,0,0,1,0,0,0,1,2.0,Breast tumors
+203,cyproheptadine,0,1,0,0,0,0,1,0,0,0,1,2.0,multiple myeloma / leukemia
+58,cholic acid-polyethylenimine polymer+folic acid,0,1,0,0,0,0,1,0,0,0,1,2.0,colorectal adenocarcinoma
+205,dabigatran etexilate,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer
+190,chlorpromazine+mitomycin c,0,1,0,0,0,0,1,0,0,0,1,2.0,Ehrilch ascites tumor
+189,chlorpromazine,0,1,1,0,0,0,1,1,0,0,2,2.0,"chronic myeloid leukemia, glioblastoma"
+46,nelfinavir+ metformin,0,1,0,0,0,0,1,0,0,0,1,2.0,cervical cancer
+186,ceftriaxone,0,1,0,0,0,0,1,0,0,0,1,2.0,lung cancer
+266,celecoxib+tegafur,0,1,0,0,0,0,1,0,0,0,1,2.0,gastric cancer
+60,sitagliptin,0,1,0,0,0,0,1,0,0,0,1,2.0,thyroid carcinoma
+163,cabergoline+chloroquine,0,1,0,0,0,0,1,0,0,0,1,2.0,pituitary adenoma
+166,caffeine,0,1,0,0,0,0,1,0,0,0,1,2.0,hepatocellular carcinoma
+167,caffeine+methioninase,0,1,0,0,0,0,1,0,0,0,1,2.0,Synovial sarcoma
+165,caffeine+valproic acid,0,1,0,0,0,0,1,0,0,0,1,2.0, bone and soft-tissue sarcoma
+172,calcium carbonate+ doxorubicin,0,1,0,0,0,0,1,0,0,0,1,2.0,neuroblastoma
+173,calcium carbonate+doxorubicin,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer
+177,calcium phosphate+ doxorubicin,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer
+176,calcium phosphate+fingolimod,0,1,0,0,0,0,1,0,0,0,1,2.0,hepatocellular carcinoma
+175,calcium phosphate+rnai,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer
+178,canagliflozin,2,2,0,0,0,0,2,2,0,0,4,2.0,"hepatocellular carcinoma, cancer not specific, non-small cell lung cancer, kidney and adrenal medullary tumors"
+38,candesartan,2,0,0,0,0,0,2,0,0,0,2,2.0,"liver cancer, prostate cancer"
+180,captopril,0,1,0,0,0,0,1,0,0,0,1,2.0,lung adenocarcinoma
+43,carbidopa+ l-dopa decarboxylase,0,1,0,0,0,0,1,0,0,0,1,2.0,prostate adenocarcinoma
+183,cariprazine+mitoxantrone,0,1,0,0,0,0,1,0,0,0,1,2.0,non-small cell cancer/lung cancer
+111,cd25+alpha-galactosidase,0,1,0,0,0,0,1,0,0,0,1,2.0,leukemia
+208,dalteparin,0,1,0,0,0,0,1,0,0,0,1,2.0,lung cancer
+215,deflazacort,0,1,0,0,0,0,1,0,0,0,1,2.0,T-cell lymphoma
+213,deferasirox+gemcitabine,0,1,0,0,0,0,1,0,0,0,1,2.0,pancreatic cancer
+30,ofloxacin,0,1,0,0,0,0,1,0,0,0,1,2.0,melanoma
+107,ricobendazole,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer
+134,quantum dots+arginine-glycine-aspartic acid,0,1,0,0,0,0,1,0,0,0,1,2.0,pancreatic cancer
+265,fish oil,0,1,0,0,0,0,1,0,0,0,1,2.0,Walker 256 tumor
+121,phenylalanine ammonia lyase+peg,0,1,0,0,0,0,1,0,0,0,1,2.0,Colorectal cancer
+41,folic acid+getfitnib,0,1,0,0,0,0,1,0,0,0,1,2.0,Lung cancer
+101,ganciclovir+acyclovir,0,1,0,0,0,0,1,0,0,0,1,2.0,prostate cancer
+195,isoquercitrin+cilostazol,0,1,0,0,0,0,1,0,0,0,1,2.0,colon cancer
+243,epalrestat+doxorubicin,0,1,0,0,0,0,1,0,0,0,1,2.0,cancer not specific
+89,kmup-1,0,1,0,0,0,0,1,0,0,0,1,2.0,prostate cancer
+55,obatoclax,0,1,0,0,0,0,1,0,0,0,1,2.0,thyroid cancer
+75,nitazoxanide + irinotecan,0,1,0,0,0,0,1,0,0,0,1,2.0,colorectal cancer
+86,nhibitor of aldh,0,1,0,0,0,0,1,0,0,0,1,2.0,teratoid/rhabdoid tumor
+56,mefloquine,0,1,0,0,0,0,1,0,0,0,1,2.0,gastric cancer
+85,methoxy poly(ethylene glycol)- b-poly(lactide- co-glycolide),0,1,0,0,0,0,1,0,0,0,1,2.0,cancer not specific
+249,ethacrynic acid+ror1,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer
+239,elvitegravir+cobicistat+emtricitabine+tenofovirdisoproxilfumarat,0,0,0,0,1,0,1,0,0,0,1,2.0,Kaposi's sarcoma
+214,deferoxamine+arsenic trioxide,0,1,0,0,0,0,1,0,0,0,1,2.0,cancer not specific
+227,dioxybenzone,0,1,0,0,0,0,1,0,0,0,1,2.0,skin cancer
+254,silibinin,0,1,0,0,0,0,1,0,0,0,1,2.0,colorectal cancer
+45,nelfinavir,0,1,0,0,0,0,1,0,0,0,1,2.0,Multiple myeloma
+71,desmopressin,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer
+72,desmopressin+ docetaxel,0,1,0,0,0,0,1,0,0,0,1,2.0,prostate cancer
+225,dimethyl fumarate+vitamin d,0,1,0,0,0,0,1,0,0,0,1,2.0,Acute myeloid leukemia
+33,bromocriptine+ docetaxel,0,1,0,0,0,0,1,0,0,0,1,2.0,prostate cancer bone metastasis
+81,diphenhydramine,0,1,0,0,0,0,1,0,0,0,1,2.0,melanoma
+238,eflornithine,0,1,1,0,0,0,1,1,0,0,2,2.0,"pancreatic cancer, high-grade gliomas"
+84,dipyridamole+ bortezomib,0,1,0,0,0,0,1,0,0,0,1,2.0,leukemia/lymphoma
+88,docosahexaenoic acid + metformin,0,1,0,0,0,0,1,0,0,0,1,2.0,cancer not specific
+228,dorzolamide+mitomycin c,0,1,0,0,0,0,1,0,0,0,1,2.0,Ehrlich's carcinoma
+193,rsm-932a,0,1,0,0,0,0,1,0,0,0,1,2.0,"colorectal/ prostate/ breast/ tumor-derived cell lines/ anticancer/ cancer/ cancer cells, antitumoral"
+232,econazole nitrate+cisplatin,0,1,0,0,0,0,1,0,0,0,1,2.0,lung cancer
+233,eculizumab,0,0,0,0,1,0,1,0,0,0,1,2.0,acute lymphoblastic leukemia
+78,diosmin,0,1,0,0,0,0,1,0,0,0,1,2.0,hepato-cellular carcinoma
+35,2-methoxy-5-amino-n-hydroxybenzamide,0,1,0,0,0,0,1,0,0,0,1,2.0,colorectal cancer
+123,anakinra,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer bone metastasis
+26,benazepril,0,1,0,0,0,0,1,0,0,0,1,2.0,esophageal carcinoma
+108,albendazole,0,1,0,0,0,0,1,0,0,0,1,2.0,ovarian cancer
+6,alendronate,0,1,0,0,0,0,1,0,0,0,1,2.0,cancer not specific
+260,all-trans retinoic acid,0,1,0,0,0,0,1,0,0,0,1,2.0,Squamous cell carcinoma
+8,aln-oha-s-s-cur,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer bone metastases
+143,baclofen,0,1,0,0,0,0,1,0,0,0,1,2.0,Pancreatic cancer
+142,bacitracin+ 3-bromopyruvate,0,1,0,0,0,0,1,0,0,0,1,2.0,hepatocellular carcinoma
+116,amantadine,2,0,0,0,0,0,2,0,0,0,2,2.0,"urological cancer/leukemia, Hepatocellular carcinoma"
+120,amitriptyline+bortezomib,0,1,0,0,0,0,1,0,0,0,1,2.0,multiple myeloma
+122,amoxapine+irinotecan,0,1,0,0,0,0,1,0,0,0,1,2.0,cancer (not specific)
+24,azathioprine + buthionine sulfoximine,0,1,0,0,0,0,1,0,0,0,1,2.0,hepatoma/ colon carcinoma
+124,anakinra+gemcitabine,0,1,0,0,0,0,1,0,0,0,1,2.0,pancreatic ductal adenocarcinoma
+139,avobenzone,0,1,0,0,0,0,1,0,0,0,1,2.0,cancer (not specific)
+149,and 4300 other compounds,0,1,0,0,0,0,1,0,0,0,1,2.0,head and neck cancer
+22,andvitamin c,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer
+20,auranofin + vitamin c,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer
+131,apremilast,0,1,0,0,0,0,1,0,0,0,1,2.0,colorectal cancer
+132,aprepitant,0,1,0,0,0,0,1,0,0,0,1,2.0,hepatoblastoma
+136,aripiprazole,0,1,0,0,0,0,1,0,0,0,1,2.0,gastric adenosquamous carcinoma/ colon carcinoma
+137,aripiprazole+ quinagolide,0,0,0,0,1,0,1,0,0,0,1,2.0,prolactinoma
+17,ascorbic acid+ methylglyoxal,0,1,0,0,0,0,1,0,0,0,1,2.0,Ehrlich ascites carcinoma / human breast cancer /lung epithelial adenocarcinoma
+138,atazanavir,0,1,0,0,0,0,1,0,0,0,1,2.0,malignant glioma
+105,adefovir dipivoxil+vemurafenib,0,1,0,0,0,0,1,0,0,0,1,2.0,colon cancer
+18,astaxanthin,0,1,0,0,0,0,1,0,0,0,1,2.0,hepatoma
+32,bran,0,1,0,0,0,0,1,0,0,0,1,2.0,mouse sarcoma
+73,[v4q5]ddavp,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer
+95,acetazolamide+isothiocyanate sulforaphane,0,1,0,0,0,0,1,0,0,0,1,2.0,bladder cancer
+160,brimonidine,0,1,0,0,0,0,1,0,0,0,1,2.0,cancer (not specific)
+151,benztropine mesylate,0,1,0,0,0,0,1,0,0,0,1,2.0,breast cancer
+99,acycloguanosyl-5'-thymidyltriphosphate,0,1,0,0,0,0,1,0,0,0,1,2.0,Hepatocellular carcinoma 
+100,acycloguanosyl 5'-thymidyltriphosphate,0,1,0,0,0,0,1,0,0,0,1,2.0,pancreatic cancer
+159,brexpiprazole,0,1,0,0,0,0,1,0,0,0,1,2.0,glioblastoma/ pancreatic cancer/ lung cancer
+94,acetazolamide + pyridylmethyl-n-{4-[(2-aminophenyl)-carbamoyl]-benzyl}-carbamate,0,1,0,0,0,0,1,0,0,0,1,2.0,neuroblastoma
+158,bosentan+pep005,0,1,0,0,0,0,1,0,0,0,1,2.0,colon cancer
+168,bgp-13,0,1,0,0,0,0,1,0,0,0,1,2.0,prostate cancer /breast cancer/colon cancer
+152,betaine gallium-tetrachloride,0,1,0,0,0,0,1,0,0,0,1,2.0,mammary tumor
+1,acetylcysteine+doxorubicin,0,1,0,0,0,0,1,0,0,0,1,2.0,B-cell lymphoma
+44,bortezomib,0,1,0,0,0,0,1,0,0,0,1,2.0,cancer (not specific)
+7,5-fluoro-2'-deoxyuridine and the bisphosphonate alendronate,1,1,0,0,0,0,1,0,1,0,2,1.6666666666666667,breast cancer bone metastases
+209,dapagliflozin,0,2,0,0,0,0,1,0,1,0,2,1.3333333333333335,"renal cell carcinoma, bladder cancer"
+57,mt19c,1,0,0,0,0,0,1,0,0,0,1,1.0,ovarian cancer
+251,tetracycline,1,0,0,0,0,0,1,0,0,0,1,1.0,Neuroblastoma
+221,dienestrol,1,0,0,0,0,0,1,0,0,0,1,1.0,cancer not specific
+262,valproic acid,1,0,0,0,0,0,1,0,0,0,1,1.0,glioma
+270,[zn(l(ia))(2)] (2),1,0,0,0,0,0,1,0,0,0,1,1.0,cancer (not specific)
+90,amiodarone,1,0,0,0,0,0,1,0,0,0,1,1.0,ovarian cancer
+161,brivaracetam,1,0,0,0,0,0,1,0,0,0,1,1.0,glioma
+77,promethazine,1,0,0,0,0,0,1,0,0,0,1,1.0,cancer not specific
+264,"n,2-dibutyryl adenosine 3,5 cyclic monophosphate+theophyline",1,0,0,0,0,0,1,0,0,0,1,1.0,human renal carcinoma/glioblastoma multiform
+118,ambrisentan,1,0,1,0,0,0,1,1,0,0,2,1.0,"Hemangiosarcoma, epithelial ovarian cancer"
+117,amantadine+cisplatin,1,0,0,0,0,0,1,0,0,0,1,1.0,ovarian cancer
+37,ocimum kilimandscharicum,1,0,0,0,0,0,1,0,0,0,1,1.0,cancer (not specific)
+245,escitalopram,1,0,0,0,0,0,1,0,0,0,1,1.0,Glioblastoma multiforme
+10,fluspirilene,1,0,0,0,0,0,1,0,0,0,1,1.0,colon tumor
+96,aclidinium bromide,1,0,0,0,0,0,1,0,0,0,1,1.0,gastric cancer.
+79,naringin,1,0,0,0,0,0,1,0,0,0,1,1.0,prostate cancer
+4,adapalene,1,0,0,0,0,0,1,0,0,0,1,1.0,hepatoma
+0,metformin+atenolol,1,0,0,0,0,0,1,0,0,0,1,1.0,breast cancer
+36,magnesium chloride+cesium chloride,1,0,0,0,0,0,1,0,0,0,1,1.0,liver carcinoma/ colon carcinomas/ myosarcoma
+34,bromocriptine,1,0,0,0,0,0,1,0,0,0,1,1.0,prolactinoma
+200,clomipramine,1,0,0,0,0,0,1,0,0,0,1,1.0,Lung cancer
+174,calcium chloride+bleomycin,1,0,0,0,0,0,1,0,0,0,1,1.0,cancer not specific
+54,chlorophyllin,1,0,0,0,0,0,1,0,0,0,1,1.0,pancreatic cancer
+191,chlorzoxazone,1,0,0,0,0,0,1,0,0,0,1,1.0,oral cancer
+52,chloramphenicol,1,0,0,0,0,0,1,0,0,0,1,1.0,Non-Small Cell Lung Cancer
+148,bee pollen,1,0,0,0,0,0,1,0,0,0,1,1.0,prostate cancer/ cancer (not specific)
+196,cilostazol+imatinib,1,0,0,0,0,0,1,0,0,0,1,1.0,gastrointestinal stromal tumors
+274,curcumin,1,0,0,0,0,0,1,0,0,0,1,1.0,hepatoma
+62,cisatracurium,1,0,0,0,0,0,1,0,0,0,1,1.0,colorectal cancer
+154,bifonazole,1,0,0,0,0,0,1,0,0,0,1,1.0,melanoma
+48,clotrimazole,1,0,0,0,0,0,1,0,0,0,1,1.0,Glioblastoma
+150,benzethonium chloride,2,0,0,0,0,0,1,1,0,0,2,0.6666666666666667,"cancer (not specific), Jurkat cells/ Cancer not specific"
+14,amlexanox,1,1,0,0,0,0,1,1,0,0,2,0.33333333333333337,"colorectal cancers, prostate cancer"
+49,celecoxib,0,1,1,1,0,0,2,0,1,0,3,0.33333333333333326,"bladder cancer, cancer (not specific), hepatocellular carcinoma"
+247,estramustine+docetaxel,0,1,0,1,0,0,1,1,0,0,2,0.33333333333333326,prostate cancer
+250,ethacrynic acid,2,1,0,0,0,0,1,2,0,0,3,1.1102230246251565e-16,"cancer not specific, epidermal carcinoma/leukemia, chronic lymphocytic leukemia"
+269,fluorine,0,0,1,0,0,0,0,1,0,0,1,0.0,cancer (not specific)
+102,acyclovir,0,0,1,0,0,0,0,1,0,0,1,0.0,glioblastoma
+184,caspofungin acetate,0,0,1,0,0,0,0,1,0,0,1,0.0,cancer not specific
+141,azelaic acid,0,0,1,0,0,0,1,0,0,0,1,0.0,melanoma
+25,methylcobalamin,0,0,1,0,0,0,0,1,0,0,1,0.0,cancer (not specific)
+93,abciximab,0,0,1,0,0,0,1,0,0,0,1,0.0,lung tumor/metastasis
+252,azithromycin,2,2,0,0,0,0,2,0,0,2,4,0.0,hepatocellular carcinoma
+129,apomorphine,0,0,1,0,0,0,0,1,0,0,1,0.0,cancer (not specific)
+74,nitazoxanide,0,0,1,0,0,0,0,1,0,0,1,0.0,cancer not specific
+187,chlorhexidine-cetrimide,0,0,1,0,0,0,0,1,0,0,1,0.0,colorectal carcinoma
+80,digoxin,0,1,0,0,0,2,1,1,1,0,3,0.0,"leukemia, prostate cancer"
+110,alogliptin,0,0,1,0,0,0,0,0,1,0,1,0.0,pancreatic cancer
+2,acitretin+imiquiod,0,0,1,0,0,0,1,0,0,0,1,0.0,Giant basal cell carcinoma
+153,bethanechol,0,0,1,0,0,0,0,1,0,0,1,0.0,cancer (not specific)
+115,aluminum hydroxide+racotumomab,0,0,1,0,0,0,0,1,0,0,1,0.0,advanced melanoma/ breast cancer / lung cancer
+128,cyclosporin a+anti-thymocyte globulin,0,0,1,0,0,0,0,1,0,0,1,0.0,acute myeloid leukemia
+267,sulindac,1,0,0,0,0,0,0,1,0,0,1,-0.3333333333333333,colorectal adenomas
+268,epigallocatechin gallate,1,0,0,0,0,0,0,1,0,0,1,-0.3333333333333333,colon cancer
+235,edaravone,1,0,0,0,0,0,0,1,0,0,1,-0.3333333333333333,cancer not specific
+155,"4,4'-dihydroxydiphenyl-2-pyridyl-methane",1,0,0,0,0,0,0,1,0,0,1,-0.3333333333333333,glioblastoma
+229,doxepin,1,0,0,0,0,0,0,1,0,0,1,-0.3333333333333333,prostate cancer
+224,diflunisal+ cobalt(iii)-polypyridyl,1,0,0,0,0,0,0,1,0,0,1,-0.3333333333333333,cancer not specific
+223,diflunisal+thiosemicarbazide,1,0,0,0,0,0,0,1,0,0,1,-0.3333333333333333,breast carcinoma/colon cancer/ prostate cancer
+39,cannabidiol,1,0,0,0,0,0,0,1,0,0,1,-0.3333333333333333,aggressive breast cancer
+126,anthralin,1,0,0,0,0,0,0,1,0,0,1,-0.3333333333333333,adenocarcinoma
+47,pentamidine,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,melanoma/ lung cancer
+263,pioglitazone,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,Lung Carcinogenesis
+162,bumetanide,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,colon cancer
+40,paclitaxel,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,breast carcinoma
+83,trimethadione,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,renal hepatic carcinogenesis
+144,basiliximab,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,cancer (not specific)
+169,calcipotriene,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,prostate cancer/ breast cancer
+68,hydroxycoumarin,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,lung cancer
+255,5-fu,0,0,0,0,1,0,0,1,0,0,1,-0.6666666666666666,sigmoid colon cancer
+181,captopril-polyethyleneimine,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,breast cancer
+185,cefadroxil,2,0,0,0,0,0,0,2,0,0,2,-0.6666666666666666,colorectal carcinoma
+59,sitagliptin+metformin,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,melanoma 
+28,sertraline,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,Breast tumors
+27,perindopril,0,1,0,0,0,0,0,0,1,0,1,-0.6666666666666666,esophageal carcinoma
+61,ass,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,pancreatic neuroendocrine neoplasms
+13,aluminum potassium sulfate + tannic acid,0,0,0,0,1,0,0,1,0,0,1,-0.6666666666666666,rectal cancer
+234,eculizumab+oxalyplatin,0,0,0,0,1,0,0,1,0,0,1,-0.6666666666666666,cancer not specific
+202,colestipol,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,colorectal cancer
+130,apple pectin,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,colorectal tumors
+70,dibi,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,mammary carcinoma/ fibrosarcoma
+21,and adriamycin,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,cancer (not specific)
+64,dj101,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,melanoma 
+65,dj95,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,cancer not specific
+66,"z)-2-((2-((1-ethyl-5-methoxy-1h-indol-3-yl)methylene)-3-oxo-2,3-dihydrobenzofuran-6-yl)oxy)acetonitrile",0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,prostate cancer
+240,empagliflozin,0,1,0,0,0,0,0,1,0,0,1,-0.6666666666666666,renal tubular adenomas
+256,diclofenac,0,0,0,0,0,1,0,1,0,0,1,-1.0,periorbital cutaneous tumorogenesi
+273,aspirin,0,0,0,0,0,1,0,1,0,0,1,-1.0,vestibular schwannoma
+171,calcium carbonate+vitamin d,0,0,0,0,0,1,0,1,0,0,1,-1.0,breast cancer
+219,diazoxide,0,0,0,0,0,1,0,0,1,0,1,-1.0,cancer not specific
+206,daclatasvir+ asunaprevir,0,0,0,0,0,1,0,1,0,0,1,-1.0,hepatocellular carcinoma
+170,calcium carbonate+aspirin+ calcitriol,0,0,0,0,0,1,0,0,1,0,1,-1.0,colorectal cancer
+275,sodium bicarbonate,0,0,0,0,0,1,0,1,0,0,1,-1.0,esophageal squamous cell carcinoma
+259,sotalol,0,0,0,0,0,1,0,1,0,0,1,-1.0,Prostate Cancer
+15,thiamin,0,0,0,0,0,1,0,1,0,0,1,-1.0, breast cancer/ endometrium cancer / ovary cancer/  colorectum cancer/ lung cancer
+179,canagliflozin+dapagliflozin,0,0,0,0,0,1,0,1,0,0,1,-1.0,breast cancer/ bladder cancer
+242,entacapone+levodopa+carbidopa,0,0,0,0,0,1,0,1,0,0,1,-1.0,prostate cancer
+31,beta carotene,0,0,0,0,0,1,0,0,1,0,1,-1.0,cancer (not specific)
+12,rasburicase (actual drug but allantonin is metabolite),1,0,0,0,0,0,0,0,0,1,1,-1.0,cancer (not specific)
+241,entacapone,0,0,0,0,0,1,0,1,0,0,1,-1.0,prostate cancer
+145,basiliximab+rituximab,0,0,0,0,0,1,0,1,0,0,1,-1.0,hepatocellular carcinoma
+231,drospirenone+estradiol,0,0,0,0,0,1,0,0,1,0,1,-1.0,endometrial cancer
+257,krebiozen,0,0,0,0,0,1,0,1,0,0,1,-1.0,cancer (not specfic)
+146,becaplermin,0,0,0,0,0,1,0,0,1,0,1,-1.0,cancer (not specific)
+272,cyclophosphamide,0,0,0,0,1,1,0,2,0,0,2,-1.6666666666666665,"primary malignant lymphoma, Hodgkin's disease"
+87,disulfiram,0,0,0,1,0,0,0,1,0,0,1,-1.6666666666666667,prostate cancer
+236,efavirenz,0,0,0,1,0,0,0,0,1,0,1,-1.6666666666666667,castration-resistant prostate cance
+19,atorvastatin,0,0,0,1,0,0,0,1,0,0,1,-1.6666666666666667,breast cancer
+76,pentosan polysulfate,0,0,0,1,0,0,0,1,0,0,1,-1.6666666666666667, GI cancer
+237,eflornithine+sulindac,0,0,0,1,0,0,0,1,0,0,1,-1.6666666666666667,colorectal cancer
+211,darbepoetin alfa+fludarabine,0,0,0,1,0,0,0,1,0,0,1,-1.6666666666666667,lymphocytic leukemia
+261,butyroyloxymethyl-4-phenylbutyrate,0,0,0,1,0,0,0,1,0,0,1,-1.6666666666666667,gliomas
+3,ganciclovir,0,0,0,1,0,0,0,1,0,0,1,-1.6666666666666667,Mesothelioma
+16,5-aminolevulinic acid,0,0,0,1,0,0,0,0,1,0,1,-1.6666666666666667,superficial bladder tumors
+157,bosentan+dacarbazine,0,0,0,1,0,0,0,0,1,0,1,-1.6666666666666667,metastatic cutaneous melanoma
+207,daclizumab,0,0,0,1,0,0,0,1,0,0,1,-1.6666666666666667,adult T-cell leukemia/lymphoma
+230,doxercalciferol,0,0,0,1,0,0,0,0,1,0,1,-1.6666666666666667,prostate cancer
+97,acrivastine+ vinblastine,0,0,0,1,0,0,0,0,1,0,1,-1.6666666666666667,advanced renal cell carcinoma
+91,abaloparatide,0,1,0,0,0,0,0,0,0,1,1,-2.0,osteosarcoma
+119,rapamycin,0,1,0,0,0,0,0,0,0,1,1,-2.0,angiomyolipomas
+192,cholera vaccine,0,0,0,0,0,2,0,2,0,0,2,-2.0,"colorectal cancer, prostate cancer"
+253,nitric oxide,1,1,0,0,0,1,0,3,0,0,3,-2.0,"tumor metastases, prostatic carcinoma, colon cancer"
+218,diazepam,0,1,0,0,0,0,0,0,0,1,1,-2.0,Ehrlich tumor
+82,phenobarbital,0,1,0,0,0,0,0,0,0,1,1,-2.0,hepatocellular adenomas
+258,metformin,0,0,0,0,0,2,0,1,1,0,2,-2.0,"cervical cancer/endometrial cancer/ovarian cancer, castration-resistant prostate cancer"
+53,orphenadrine,0,1,0,0,0,0,0,0,0,1,1,-2.0,liver tumor
+246,estradiol,0,1,0,0,0,0,0,0,0,1,1,-2.0,triple negative breast cancer
+182,carbamide peroxide,0,1,1,0,0,0,0,0,1,1,2,-2.0,"squamous cell carcinoma, oral cancer"
+23,azathioprine,0,1,0,0,0,0,0,0,0,1,1,-2.0,leukemias/lymphomas
+125,"anthralin+7,12-dimethyl-benz[a]anthracene",0,1,0,0,0,0,0,0,0,1,1,-2.0,murine skin tumors
+9,amifostine,0,1,0,1,0,0,0,2,0,0,2,-2.3333333333333335,"cancer (not specific), Diffuse intrahepatic tumors"
+112,alpha-tocopherol,0,0,0,1,0,1,0,2,0,0,2,-2.666666666666667,skin cancer
+92,tocilizumab,0,0,0,0,0,1,0,0,0,1,1,-3.0,skin cancer/hematologic malignant neoplasm
+271,beta-carotene,0,0,0,0,0,1,0,0,0,1,1,-3.0,cancer (not specific)
+220,didanosine,0,0,0,0,0,1,0,0,0,1,1,-3.0,cancer not specific
+63,coal tar,0,0,0,0,0,1,0,0,0,1,1,-3.0,bladder cancer
+204,cyproterone acetate,0,0,0,1,0,1,0,0,1,1,2,-4.666666666666667,"prostate cancer, meningiomas"
+210,darbepoetin alfa,0,0,0,1,0,0,0,0,0,1,1,-5.0,squamous cell carcinoma
+135,pegylated arginine deiminase,0,0,0,1,0,0,0,0,0,1,1,-5.0,ASS1-deficient malignant pleural mesothelioma
+244,epoetin alfa,0,0,0,4,0,0,0,2,2,0,4,-6.666666666666667,"head and neck cancer, non-small cell lung cancer, breast cancer"
